@@ -1,0 +1,7 @@
+Data Type :- A Data Type defines the set of values that a variable can store along with a set of operations that can be 
+performed on that variable.
+Common data types are :-
+1. Integers
+2. Character
+3. Floating-Point
+There are also other data types that are present other than this.

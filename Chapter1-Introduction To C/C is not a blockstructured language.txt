@@ -1,0 +1,23 @@
+The reason that C is not technically , a block-structured language is that block-structured languages permit procedures or functions.
+However, since C does not allow the creation of functions within functions, it cannot formally be called block-structured.
+
+STRUCTURED AND NON-STRUCTURED LANGUAGE EXAMPLE
+
+Name of some of the Non-structured language are :-
+1) BASIC
+2) FORTRAN
+3) COBOL
+
+Name of some of the Structured language are :-
+1) Pascal
+2) Ada
+3) C++
+4) C
+5) Java
+6) Modula-2
+
+Structured language tends to be of more recent creation. In fact, a mark of an old computer language is that it is non-structured.
+Today, few programmers would consider using a non-structured language for serious, new programs.
+
+Note -- New versions of many older languages have attempted to add structured elements.BASIC is an example. However, the shortcomings 
+of these languages can never be fully mitigated because they were not designed along structured design principles from beginning.
